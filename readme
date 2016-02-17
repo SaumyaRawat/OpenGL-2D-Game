@@ -1,0 +1,12 @@
+To run the executable :
+./basicshapes
+
+To compile:
+make
+
+Additional code used for textures:
+imageloader.cpp  : to convert bitmap images into textures
+text3d.cpp : to view text in bold for scores.
+Codes taken from videotutorialsrock.com
+
+

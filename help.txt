@@ -1,0 +1,15 @@
+			Central Park!
+
+Bring out the prankster in you! Break the birds' eggs floating on the screen and get points based on
+how far the eggs are.
+
+Red and his cousins will try to block you though :P
+
+a : Move the canon up
+b: Move the canon down
+Space Bar : Launch the shell from cannon
+f: Launch the shell faster
+s: Launch the shell at a slower speed.
+
+Right Click and drag OR Left and Right arrow keys to pan 
+Scroll Up and Down OR Up and Down arrow keys to zoom

@@ -1,0 +1,32 @@
+/*	glBegin(GL_QUADS); //Begin quadrilateral coordinates
+
+	//Trapezoid
+	glVertex3f(-0.7f, -1.5f, -5.0f);
+	glVertex3f(0.7f, -1.5f, -5.0f);
+	glVertex3f(0.4f, -0.5f, -5.0f);
+	glVertex3f(-0.4f, -0.5f, -5.0f);
+
+	glEnd(); //End quadrilateral coordinates
+
+	glBegin(GL_TRIANGLES); //Begin triangle coordinates
+
+	//Pentagon
+	glVertex3f(0.5f, 0.5f, -5.0f);
+	glVertex3f(1.5f, 0.5f, -5.0f);
+	glVertex3f(0.5f, 1.0f, -5.0f);
+
+	glVertex3f(0.5f, 1.0f, -5.0f);
+	glVertex3f(1.5f, 0.5f, -5.0f);
+	glVertex3f(1.5f, 1.0f, -5.0f);
+
+	glVertex3f(0.5f, 1.0f, -5.0f);
+	glVertex3f(1.5f, 1.0f, -5.0f);
+	glVertex3f(1.0f, 1.5f, -5.0f);
+
+	//Triangle
+	glVertex3f(-0.5f, 0.5f, -5.0f);
+	glVertex3f(-1.0f, 1.5f, -5.0f);
+	glVertex3f(-1.5f, 0.5f, -5.0f);
+	glEnd(); //End triangle coordinates
+*/
+
